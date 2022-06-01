@@ -1,0 +1,7 @@
+{
+    "require": {
+        "react/socket": "^1.3.0",
+        "react/http": "^0.8.5",
+      "ext-json": "*"
+    }
+}
